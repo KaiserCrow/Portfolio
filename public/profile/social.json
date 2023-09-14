@@ -1,16 +1,16 @@
 {
-    "social": [
-        {
-            "network" : "linkedin",
-            "href": "https://linkedin.com/"
-        },
-        {
-            "network" : "github",
-            "href": "https://github.com/mayankagarwal09"
-        },
-        {
-            "network" : "email",
-            "href": "mailto:test@test.com"
-        }
-    ]
+  "social": [
+    {
+      "network": "linkedin",
+      "href": "https://www.linkedin.com/in/steven-ton-17b676215/"
+    },
+    {
+      "network": "github",
+      "href": "https://github.com/KaiserCrow"
+    },
+    {
+      "network": "email",
+      "href": "mailto:steven_958@hotmail.fr"
+    }
+  ]
 }

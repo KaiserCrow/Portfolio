@@ -1,19 +1,16 @@
 {
-    "education":[
-        {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
-            }
-        },
-        {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
-        }
-    ]
+  "education": [
+    {
+      "title": "Février 2023 - Octobre 2023",
+      "cardTitle": "Développement web",
+      "cardSubtitle": "OpenClassroom",
+      "cardDetailedText": "Diplôme de niveau 5 (bac +2)"
+    },
+    {
+      "title": "2012 - 2015",
+      "cardTitle": "Bac Pro EDPI",
+      "cardSubtitle": "Lycée Jules Verne, Cergy",
+      "cardDetailedText": "Baccalauréat"
+    }
+  ]
 }
