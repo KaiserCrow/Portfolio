@@ -1,0 +1,25 @@
+{
+  "experiences": [
+    {
+      "title": "Software Engineer",
+      "subtitle": "XYZ Ltd",
+      "workType": "Full-time",
+      "workDescription": [
+        "Integrated **2** new product.",
+        "Worked on adding **def** to **bcd**. Improved speed by 50%."
+      ],
+      "dateText": "06/20XX – Present"
+    },
+    {
+      "title": "Dessinateur industriel",
+      "subtitle": "Blanc Aero Industries",
+      "workType": "Stage",
+      "workDescription": [
+        "Dessin industriel",
+        "Soutien à l’équipe produit",
+        "Utilisation du logiciel Solidworks"
+      ],
+      "dateText": "01/20XX – 05/20XX"
+    }
+  ]
+}

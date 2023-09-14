@@ -1,0 +1,16 @@
+{
+  "education": [
+    {
+      "title": "Février 2023 - Octobre 2023",
+      "cardTitle": "Développement web",
+      "cardSubtitle": "OpenClassroom",
+      "cardDetailedText": "Diplôme de niveau 5 (bac +2)"
+    },
+    {
+      "title": "2012 - 2015",
+      "cardTitle": "Bac Pro EDPI",
+      "cardSubtitle": "Lycée Jules Verne, Cergy",
+      "cardDetailedText": "Baccalauréat"
+    }
+  ]
+}
