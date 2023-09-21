@@ -1,25 +1,38 @@
 {
   "experiences": [
     {
-      "title": "Software Engineer",
-      "subtitle": "XYZ Ltd",
-      "workType": "Full-time",
+      "title": "Développeur front-end",
+      "subtitle": "Kabaun",
+      "workType": "Stagiaire",
       "workDescription": [
-        "Integrated **2** new product.",
-        "Worked on adding **def** to **bcd**. Improved speed by 50%."
+        "Excellent gestion du temps et des compétences multi-tâches.",
+        "Doué de compétences techniques d’un niveau supérieur.",
+        "Capable de traiter respectueusement des informations sensibles et confidentielles.",
+        "Capable de se surpasser continuellement au niveau individuel et en tant que membre de l’équipe."
       ],
-      "dateText": "06/20XX – Present"
+      "dateText": "09/2021 – 10/2021"
+    },
+    {
+      "title": "Agent de service courrier",
+      "subtitle": "Docapost",
+      "workType": "Intérimaire",
+      "workDescription": [
+        "Assure une gestion optimisée du flux de courriers entrants, garantissant ainsi une communication interne et externe efficace.",
+        "Expertise en analyse documentaire, classant et dirigeant les documents essentiels pour maximiser l'efficacité du service interne.",
+        "Responsabilité complète de la gestion des stocks, incluant des commandes stratégiques d'enveloppes pour assurer la continuité opérationnelle."
+      ],
+      "dateText": "07/2016 – 09/2016"
     },
     {
       "title": "Dessinateur industriel",
       "subtitle": "Blanc Aero Industries",
-      "workType": "Stage",
+      "workType": "Stagiaire",
       "workDescription": [
         "Dessin industriel",
         "Soutien à l’équipe produit",
         "Utilisation du logiciel Solidworks"
       ],
-      "dateText": "01/20XX – 05/20XX"
+      "dateText": "11/2014 – 01/2015"
     }
   ]
 }

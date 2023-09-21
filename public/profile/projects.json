@@ -1,150 +1,52 @@
 {
-    "projects" : [
+  "projects": [
+    {
+      "image": "images/projects/Projet-2.png",
+      "title": "Projet Booki",
+      "bodyText": "- Ce site a été méticuleusement conçu en respectant la maquette initiale du projet 'Booki', dédié à la réservation d'hébergements à Marseille.\n - Doté d'une interface adaptative, le site offre une expérience utilisateur optimale sur tous types d'appareils.\n",
+      "links": [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://mayankagarwal.me"
-                }
-            ],
-            "tags" : [
-                "React",
-                "Portfolio",
-                "JavaScript"
-            ]
+          "text": "GitHub",
+          "href": "https://github.com/mayankagarwal09/dev-portfolio"
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
-                {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
-                }
-            ],
-            "tags" : [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
-            ]
-        },
-        {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
-            ]
-        },
-        {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
-            ]
-        },
-        {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
-            ]
-        },
-        {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
-            ]
-        },
-        {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
-                }
-            ],
-            "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
-            ]
-        },
-        {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
-                }
-            ],
-            "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
-            ]
+          "text": "Live",
+          "href": "https://mayankagarwal.me"
         }
-    ]
+      ],
+      "tags": ["HTML", "CSS"]
+    },
+    {
+      "image": "images/projects/Projet-3.png",
+      "title": " Projet du site de l'architecte Sophie Bluel",
+      "bodyText": "- Dans le contexte d'un projet de formation avec OpenClassrooms, j'ai été mis en situation en tant que développeur front-end au sein de l'agence fictive ArchiWebos, comptant 50 'collaborateurs'. Le projet simulé consistait à travailler sur le portfolio numérique de l'architecte d'intérieur 'Sophie Bluel'. Ce scénario pédagogique m'a offert l'opportunité de mettre en pratique diverses compétences en développement front-end.   \n - À partir d'un modèle HTML fourni, j'ai soigneusement élaboré une page dédiée à la présentation des œuvres de l'architecte.\n - J'ai conçu intégralement la page de connexion de l'administrateur, assurant ainsi un accès sécurisé et personnalisé au site. \n - J'ai développé de A à Z une modale intuitive permettant l'ajout facile de nouveaux médias au portfolio. ",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/KaiserCrow/Projet-3-OC.git"
+        },
+        {
+          "text": "Live",
+          "href": "https://kaisercrow.github.io/Projet-3-OC/FrontEnd/index.html"
+        }
+      ],
+      "tags": ["HTML", "CSS", "Javascript"]
+    },
+    {
+      "image": "images/projects/Projet-6.png",
+      "title": "Projet Kasa",
+      "bodyText": " - Dans le cadre d'un projet de formation avec OpenClassrooms, j'ai été mis en situation comme développeur front-end freelance pour Kasa, un leader fictif de la location d'appartements entre particuliers en France. Mon rôle simulé a consisté à contribuer à une refonte majeure de leur plateforme, passant d'un code legacy en ASP.NET à une stack moderne en JavaScript, NodeJS et React.\n - Mise en place d'une navigation fluide entre les diverses pages de l'application grâce à React Router. \n - Initialisation de l'application à l'aide du framework Create React App pour un démarrage rapide et efficace. \n - Conception d'éléments d'interface utilisateur interactifs en utilisant des composants React modulaires.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/KaiserCrow/Projet-6-OC-Ton-Steven.git"
+        },
+        {
+          "text": "Live",
+          "href": "https://projet-kasa-steven-ton.netlify.app/"
+        }
+      ],
+      "tags": ["HTML", "CSS", "Javascript", "React"]
+    }
+  ]
 }
