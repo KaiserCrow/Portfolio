@@ -17,17 +17,17 @@
       "tags": ["HTML", "CSS"]
     },
     {
-      "image": "images/projects/Projet-3.png",
-      "title": " Projet du site de l'architecte Sophie Bluel",
-      "bodyText": "- Dans le contexte d'un projet de formation avec OpenClassrooms, j'ai été mis en situation en tant que développeur front-end au sein de l'agence fictive ArchiWebos, comptant 50 'collaborateurs'. Le projet simulé consistait à travailler sur le portfolio numérique de l'architecte d'intérieur 'Sophie Bluel'. Ce scénario pédagogique m'a offert l'opportunité de mettre en pratique diverses compétences en développement front-end.   \n - À partir d'un modèle HTML fourni, j'ai soigneusement élaboré une page dédiée à la présentation des œuvres de l'architecte.\n - J'ai conçu intégralement la page de connexion de l'administrateur, assurant ainsi un accès sécurisé et personnalisé au site. \n - J'ai développé de A à Z une modale intuitive permettant l'ajout facile de nouveaux médias au portfolio. ",
+      "image": "images/projects/Projet-5.png",
+      "title": " Projet de débogage du site de Nina Carducci ",
+      "bodyText": "- Dans le contexte d'un projet de formation avec OpenClassrooms, j'ai été mis en situation en tant que développeur front-end pour aider a débugger un site web d'une photographe. Le projet simulé consistait à travailler sur le portfolio numérique de la photographe Nina Carducci. Ce scénario pédagogique m'a offert l'opportunité de mettre en pratique diverses compétences en développement front-end.   \n - Optimisation des performances du site web permettant un chargement plus rapide de la page. \n - Réglages des bugs révélés lors de la navigation sur le site. \n - Rédaction d'un rapport complet sur les révisions du site. ",
       "links": [
         {
           "text": "GitHub",
-          "href": "https://github.com/KaiserCrow/Projet-3-OC.git"
+          "href": "https://github.com/KaiserCrow/Projet-5-OC-Ton-Steven.git"
         },
         {
           "text": "Live",
-          "href": "https://kaisercrow.github.io/Projet-3-OC/FrontEnd/index.html"
+          "href": "https://kaisercrow.github.io/Projet-5-OC-Ton-Steven/"
         }
       ],
       "tags": ["HTML", "CSS", "Javascript"]
