@@ -1,16 +1,29 @@
 {
   "experiences": [
     {
+      "title": "Consultant IT",
+      "subtitle": "LEOMIT",
+      "workType": "Consultant IT",
+      "workDescription": [
+        "Conception et industrialisation de scripts PowerShell : installation, configuration, mises à jour et automatisation.",
+        "Mise en place de journalisation (logs), gestion des erreurs et codes de retour, amélioration de la fiabilité des scripts.",
+        "Analyse et correction de dysfonctionnements sur scripts/applications legacy (ASP/VBScript).",
+        "Traitement de données : extraction et insertion en base via SQL (requêtes, vérifications, imports).",
+        "Optimisation de tâches de maintenance (nettoyage, contrôles, reporting) pour réduire le temps de traitement."
+      ],
+      "dateText": "Janvier 2025 - Janvier 2026"
+    },
+    {
       "title": "Développeur front-end",
       "subtitle": "Kabaun",
-      "workType": "Stagiaire",
+      "workType": "Développeur stagiaire",
       "workDescription": [
         "Excellent gestion du temps et des compétences multi-tâches.",
         "Doué de compétences techniques d’un niveau supérieur.",
         "Capable de traiter respectueusement des informations sensibles et confidentielles.",
         "Capable de se surpasser continuellement au niveau individuel et en tant que membre de l’équipe."
       ],
-      "dateText": "09/2021 – 10/2021"
+      "dateText": "2021"
     },
     {
       "title": "Agent de service courrier",
@@ -21,18 +34,18 @@
         "Expertise en analyse documentaire, classant et dirigeant les documents essentiels pour maximiser l'efficacité du service interne.",
         "Responsabilité complète de la gestion des stocks, incluant des commandes stratégiques d'enveloppes pour assurer la continuité opérationnelle."
       ],
-      "dateText": "07/2016 – 09/2016"
+      "dateText": "2016"
     },
     {
       "title": "Dessinateur industriel",
       "subtitle": "Blanc Aero Industries",
-      "workType": "Stagiaire",
+      "workType": "Dessinateur industriel stagiaire",
       "workDescription": [
         "Dessin industriel",
         "Soutien à l’équipe produit",
         "Utilisation du logiciel Solidworks"
       ],
-      "dateText": "11/2014 – 01/2015"
+      "dateText": "2014"
     }
   ]
 }
