@@ -16,6 +16,22 @@
         {
           "icon": "images/skills/js.png",
           "title": "JavaScript"
+        },
+        {
+          "icon": "images/skills/PowerShell_5.0_icon.png",
+          "title": "Powershell"
+        },
+        {
+          "icon": "images/skills/SQL_Server_Management_Studio.png",
+          "title": "SQL Server Management Studio"
+        },
+        {
+          "icon": "images/skills/asp.png",
+          "title": "ASP.Net"
+        },
+        {
+          "icon": "images/skills/vbscript.png",
+          "title": "VBScript"
         }
       ]
     },
