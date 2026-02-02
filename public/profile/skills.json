@@ -1,5 +1,5 @@
 {
-  "intro": "J'adore apprendre de nouvelles choses et expérimenter avec de nouvelles technologies.\nVoici quelques-uns des principaux langages, technologies, outils et plateformes avec lesquels j'ai travaillé :",
+  "intro": "J'adore apprendre de nouvelles choses et expérimenter avec de nouvelles technologies.\nVoici quelques-uns des principaux langages, outils et plateformes avec lesquels j'ai travaillé :",
 
   "skills": [
     {
@@ -22,14 +22,6 @@
           "title": "Powershell"
         },
         {
-          "icon": "images/skills/SQL_Server_Management_Studio.png",
-          "title": "SSMS"
-        },
-        {
-          "icon": "images/skills/asp.png",
-          "title": "ASP.Net"
-        },
-        {
           "icon": "images/skills/vbscript.png",
           "title": "VBScript"
         }
@@ -43,6 +35,15 @@
           "title": "React"
         },
         {
+          "icon": "images/skills/asp.png",
+          "title": "ASP.Net"
+        }
+      ]
+    },
+    {
+      "title": "Environnements",
+      "items": [
+        {
           "icon": "images/skills/nodejs.png",
           "title": "Nodejs"
         }
@@ -54,6 +55,10 @@
         {
           "icon": "images/skills/git.png",
           "title": "Git"
+        },
+        {
+          "icon": "images/skills/SQL_Server_Management_Studio.png",
+          "title": "SSMS"
         }
       ]
     }
