@@ -12,16 +12,16 @@ const styles = {
   containerStyle: {
     marginBottom: 25,
   },
-  // showMoreStyle: {
-  //   margin: 25,
-  // },
+  showMoreStyle: {
+    margin: 25,
+  },
 };
 
 const Projects = (props) => {
   const theme = useContext(ThemeContext);
   const { header } = props;
   const [data, setData] = useState(null);
-  // const [showMore, setShowMore] = useState(false);
+  const [showMore, setShowMore] = useState(false);
 
   useEffect(() => {
     fetch(endpoints.projects, {
@@ -31,8 +31,7 @@ const Projects = (props) => {
       .then((res) => setData(res))
       .catch((err) => err);
   }, []);
-  // const numberOfItems = showMore && data ? data.length : 6;
-  const numberOfItems = 6;
+  const numberOfItems = showMore && data ? data.length : 6;
   return (
     <>
       <Header title={header} />
@@ -48,7 +47,7 @@ const Projects = (props) => {
                 ))}
               </Row>
 
-              {/* {!showMore
+              {!showMore
                 && (
                 <Button
                   style={styles.showMoreStyle}
@@ -57,7 +56,7 @@ const Projects = (props) => {
                 >
                   show more
                 </Button>
-                )} */}
+                )}
             </Container>
           </div>
         ) : <FallbackSpinner /> }
