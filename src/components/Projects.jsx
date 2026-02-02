@@ -12,16 +12,16 @@ const styles = {
   containerStyle: {
     marginBottom: 25,
   },
-  showMoreStyle: {
-    margin: 25,
-  },
+  // showMoreStyle: {
+  //   margin: 25,
+  // },
 };
 
 const Projects = (props) => {
   const theme = useContext(ThemeContext);
   const { header } = props;
   const [data, setData] = useState(null);
-  const [showMore, setShowMore] = useState(false);
+  // const [showMore, setShowMore] = useState(false);
 
   useEffect(() => {
     fetch(endpoints.projects, {
